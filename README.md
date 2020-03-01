@@ -3,7 +3,7 @@
 更改click/click/spiders/click_star.py裡面的連接位置  
 在spider的上一層輸入scrapy crawl click_star即可開始爬取  
 
-
+  
 
 ##簡單指令  
 scrapy startproject tutorial        #創建項目  
