@@ -5,7 +5,7 @@
 
   
 
-##簡單指令  
+## 簡單指令  
 scrapy startproject tutorial        #創建項目  
 cd tutorial  
 scrapy genspider <name> <網域>      #建立spider  
