@@ -1,5 +1,0 @@
-scrapy startproject tutorial        #創建項目
-cd tutorial
-scrapy genspider <name> <網域>      #建立spider
-scrapy crawl <spider's name>        #啟動spider
-
